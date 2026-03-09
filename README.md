@@ -1,6 +1,11 @@
-# 💫 About Me:
-I am a Full-Stack Software Engineer based in Accra, Ghana, and a student at Kwame Nkrumah University of Science and Technology (KNUST). I build scalable, production-ready applications with a focus on clean architecture and secure user experiences.<br><br>💻 Featured Projects<br>🏨 VroyHostel: A multi-portal hostel booking platform featuring a secure payment gateway via Paystack API and complex SQL database management.<br><br>🎟️ Brunei Tickets: A digital event ticketing system with real-time inventory tracking and QR-code verification for entry.<br><br>📊 Data Science: Actively solving challenges on Kaggle, including the "Titanic: Machine Learning from Disaster" project.<br><br>🛠️ Technical Stack & Verified Skills<br>Languages: Python, JavaScript, SQL, PHP, C#, HTML, and CSS.<br><br>Certifications: * ✅ JavaScript (Intermediate) - HackerRank Certified<br><br>✅ SQL (Intermediate) - HackerRank Certified<br><br>✅ Python (Basic) - HackerRank Certified<br><br>🌎 Global Remote Collaboration<br>I am actively seeking Global Remote software engineering roles. I am set up to work across various timezones (UTC/GMT, EST, CET, and AEST) and thrive in multicultural, distributed teams.<br>
+Mustapha Ishmael (Vroy) 👋
+Full-Stack Software Engineer | KNUST Student
 
+🚀 Core Projects: Developed VroyHostel (Hostel Aggregator) and Brunei Tickets (Digital Ticketing).
+
+✅ Verified Skills: 3x HackerRank Certified in JavaScript (Intermediate), SQL (Intermediate), and Python.
+
+🌎 Status: Actively seeking Global Remote Software Engineering opportunities.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.instagram.com/_v.roy62_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ishmael-mustapha-99a923378) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ishmael Mustapha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustaphaishmael255@gmail.com) 
